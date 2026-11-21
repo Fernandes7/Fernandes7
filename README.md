@@ -80,13 +80,13 @@ data class Engineer(
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🌌 3D Contribution Galaxy
+## 🌌 3D Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-galaxy-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-galaxy-light.svg" />
-    <img src="./profile-3d-contrib/profile-galaxy-dark.svg" alt="3D contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
   </picture>
 </p>
 
