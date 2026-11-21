@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-galaxy-dark.svg",
+    "backgroundColor": "#0b0716",
+    "foregroundColor": "#ece8ff",
+    "strongColor": "#a78bfa",
+    "weakColor": "#8b85a8",
+    "radarColor": "#8b5cf6",
+    "growingAnimation": true,
+    "contribColors": ["#1e1633", "#3b2a6b", "#5b3fa8", "#7c5ce0", "#b69cff"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-galaxy-light.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#1a1033",
+    "strongColor": "#6d28d9",
+    "weakColor": "#6b6585",
+    "radarColor": "#7c3aed",
+    "growingAnimation": true,
+    "contribColors": ["#efedf7", "#d4c8fb", "#a78bfa", "#7c3aed", "#4c1d95"]
+  }
+]
