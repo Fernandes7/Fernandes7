@@ -103,10 +103,6 @@ data class Engineer(
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernandes7&theme=tokyo-night&hide_border=true&bg_color=0b0716&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fernandes7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
   </a>
