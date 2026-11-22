@@ -162,6 +162,7 @@ flowchart LR
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Did the SDK Finish?” How We Fixed Our Android SDK’s Response Callback](https://medium.com/@fernooxplozd/did-the-sdk-finish-how-we-fixed-our-android-sdks-response-callback-0de754ab77ac?source=rss-b5eeb3a2c5b5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://medium.com/@fernooxplozd"><img src="https://img.shields.io/badge/Read%20more%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
